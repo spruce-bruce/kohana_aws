@@ -7,7 +7,7 @@ This project is a kohana module containing the Amazon Web Services SDK for PHP. 
 * Download the module and put it in your project's MODPATH (By default this is /your/project/modules).
 * Add the kohana_aws module to your bootstrap file.
 * Copy the aws.php config file from /your/project/modules/config/aws.php to the config directory in your project's application directory.
-* Set the public and private keys for your aws account in the aws.php config file. (Note: this config file will work just like the aws config file, meaning that you can support multiple aws accounts. See the example config file for more details.
+* Set the public and private keys for your aws account in the aws.php config file. (Note: this config file will work just like the aws config file, meaning that you can support multiple aws accounts. See the example config file or [this example](http://docs.amazonwebservices.com/AWSSDKforPHP/latest/index.html#m=CFCredentials/set) from the sdk's CFCredentials doc.
 
 ### Links ###
 Amazon Web Services: http://aws.amazon.com/
