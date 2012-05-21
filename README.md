@@ -3,7 +3,7 @@ kohana_aws
 
 This project is a kohana module containing the Amazon Web Services SDK for PHP. There is a companion blog post [here](http://dev.strategystar.net/2012/05/amazon-web-services-and-kohana/).
 
-## Usage ##
+## Installation ##
 * Download the module and put it in your project's MODPATH (By default this is /your/project/modules).
 * Add the kohana_aws module to your bootstrap file.
 * Copy the aws.php config file from /your/project/modules/config/aws.php to the config directory in your project's application directory.
